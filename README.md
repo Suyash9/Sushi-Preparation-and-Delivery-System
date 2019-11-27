@@ -1,0 +1,2 @@
+# Sushi-Preparation-and-Delivery-System
+A client server, inventory and delivery management system for a sushi business. It keeps track of stocks of ingredients and the sushi that has been prepared from these ingredients. It also manages the fleet of drones for delivering sushi and restocking ingredients. Also includes client functionality which allows customers to view the range of sushi on offer, to place orders and to view the progress of their order.
